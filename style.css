@@ -94,8 +94,8 @@
       align-items: flex-start;
     }
     p {
-        margin-top: 32px;
-        margin-bottom: 32px;
+        margin-top: 16px;
+        margin-bottom: 16px;
     }
 }
 @media only screen and (min-width: 514px) and (max-width: 1240px) {
