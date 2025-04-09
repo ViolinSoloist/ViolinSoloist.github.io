@@ -47,7 +47,7 @@
         justify-content: flex-start;
     }
 }
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 514px) {
     body{
         background-color: #d0c4e4;
     }
@@ -94,11 +94,11 @@
       align-items: flex-start;
     }
     p {
-        margin-top: 22px;
-        margin-bottom: 22px;
+        margin-top: 32px;
+        margin-bottom: 32px;
     }
 }
-@media only screen and (min-width: 414px) and (max-width: 1240px) {
+@media only screen and (min-width: 514px) and (max-width: 1240px) {
     body{
         background-color: #e1f6f9;
     }
